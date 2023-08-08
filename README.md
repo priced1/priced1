@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=Ola%2C+me+chamo+Gessivan+Junior;Eu+tenho+18+anos;Moro+no+Brasil;Atualmente+fa%C3%A7o+dois+cursos;Redes+de+Computadores+;E+Inform%C3%A1tica)](https://git.io/typing-svg)
 
-
- [![Linkldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lin)     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priceddread1)
-
+<div align="center">
+ <a href="https://instagram.com/priceddread1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://linkedln.com/in/gessivan-junior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
+ 
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priced1&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priced1&layout=compact&theme=tokyonight"/>
