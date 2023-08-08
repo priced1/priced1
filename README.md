@@ -1,7 +1,5 @@
-### OLÁ, EU SOU O PRICED1 (GESSIVAN JUNIOR) 👦🏻
- [![Linkldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lin)
-
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priceddread1)
+### OLÁ, EU SOU O PRICED1 (GESSIVAN JUNIOR) 👦🏻🖥️💻💻
+ [![Linkldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lin)     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priceddread1)
 
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priced1&show_icons=true&theme=tokyonight"/>
