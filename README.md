@@ -1,8 +1,6 @@
 ### OLÁ, EU SOU O PRICED1 (GESSIVAN JUNIOR) 👦🏻🖥️💻📱
  [![Linkldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lin)     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priceddread1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-color=ff91a4&size=35&center=true&vCenter=true&width=1000&1ines-HELLO,+MY+NAME+is+Gessivan+Junior:I'm+18+years+old:I+from+Brazil:I+studing+computer+science+and+computer+networks:Be+Welcome!+:%29)](https://git.io/typing-svg)
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priced1&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priced1&layout=compact&theme=tokyonight"/>
