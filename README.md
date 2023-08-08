@@ -1,4 +1,4 @@
-### OLÁ, EU SOU O PRICED1 (GESSIVAN JUNIOR) 👦🏻🖥️💻💻
+### OLÁ, EU SOU O PRICED1 (GESSIVAN JUNIOR) 👦🏻🖥️💻📱
  [![Linkldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lin)     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priceddread1)
 
  <div>
