@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2a4858&height=120&section=header&%20render&fontSize=90" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=Ola%2C+me+chamo+Gessivan+Junior;Eu+tenho+18+anos;Moro+no+Brasil;Atualmente+fa%C3%A7o+dois+cursos;Redes+de+Computadores+;E+Inform%C3%A1tica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Ola%2C+me+chamo+Gessivan+Junior;Eu+tenho+18+anos;Moro+no+Brasil;Atualmente+fa%C3%A7o+dois+cursos;Redes+de+Computadores+;E+Inform%C3%A1tica)](https://git.io/typing-svg)
 
 <div align="center">
  <a href="https://instagram.com/priceddread1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
