@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Gessivan+Junior;I+am+18+years+old;I+live+in+Brazil;I+am+a+computer+networks+and+informatics+technician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Gessivan+Junior;I+am+18+years+old;I+live+in+Brazil;I+am+;a+computer+networks;and+informatics+technician)](https://git.io/typing-svg)
 
 
  <div>
