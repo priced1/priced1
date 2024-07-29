@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Ola%2C+me+chamo+Gessivan+Junior;Eu+tenho+18+anos;Moro+no+Brasil;Sou+Técnico+em;Redes+de+Computadores+;E+Inform%C3%A1tica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Ola%2C+me+chamo+Gessivan+Junior;Eu+tenho+19+anos;Moro+no+Brasil;Sou+Técnico+em;Redes+de+Computadores+;E+Inform%C3%A1tica)](https://git.io/typing-svg)
 
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priced1&show_icons=true&theme=tokyonight"/>
