@@ -1,12 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2a4858&height=100&section=header&%20render&fontSize=70" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=2a4858&height=100&section=header&%20render&fontSize=100" />
 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Ola%2C+me+chamo+Gessivan+Junior;Moro+no+Brasil;Sou+Técnico+em;Redes+de+Computadores+;E+Inform%C3%A1tica)](https://git.io/typing-svg)
 
  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priced1&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priced1&layout=compact&theme=tokyonight"/>
+   
  </div>
 
 
@@ -22,7 +21,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priced1&bg_color=142148&color=f0f0f0&line=04defb&point=441e8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=priced1&theme=onedark&no-frame=true&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2a4858&height=120&section=footer&%20render&fontSize=90"/>
-
+ -->
